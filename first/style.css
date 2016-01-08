@@ -3,33 +3,26 @@ html, body {
   width:100%;
   margin:0;
   padding:0;
-  background-color: grey;
+  background-color: gray;
 }
+
 .header {
   background-color: #4d4d4d;
   height:20%;
   width:100%;
 }
+
 .footer {
   background-color: black;
-  height:20%;
+  height:10%;
   width:60%;
   clear:both;
-}
-.left-side {
-  background-color: lightgrey;
-  height:80%;
-  width:20%
-}
-
-.right-side {
-  background-color: lightgrey;
-  height:80%;
-  width:20%;
-
-}
-.article {
-  height:;
-  width: 400px;
   margin: 0 auto;
+}
+
+.article {
+  height:80%;
+  width: 60%;
+  margin: 0 auto;
+  background-color: white;
 }
